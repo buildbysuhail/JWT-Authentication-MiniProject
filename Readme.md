@@ -1,6 +1,6 @@
-#### This Mini Project is taken out from repo called 'Day-By-Day-Learning-of-MongoDB-' for Depl
+# This Mini Project is taken out from repo called 'Day-By-Day-Learning-of-MongoDB-' for Depl
 ## LOGIN FLOW
-# POST /api/auth/login
+### POST /api/auth/login
 → server
 → login route
 → JWT created
