@@ -1,3 +1,20 @@
+## Tech Stack
+- Node.js
+- Express.js
+- MongoDB Atlas
+- Mongoose
+- JWT Authentication
+- Render (Deployment)
+
+## Features
+> User Registration & Login
+> Password hashing using bcrypt
+> JWT-based authentication
+> Protected routes
+> CRUD operations on posts (not completed)
+> Search & filter using MongoDB aggregation (coming soon)
+> Environment-based configuration
+
 # This Mini Project is taken out from repo called 'Day-By-Day-Learning-of-MongoDB-' for Depl
 ## LOGIN FLOW
 ### POST /api/auth/login
