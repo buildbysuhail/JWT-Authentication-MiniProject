@@ -25,7 +25,7 @@
 
 
 ### GPT > 
- ## What I recommend next 🚀
+ ## ToDo With this Mini Project 🚀
 
 You can choose:
 1️⃣ Add role-based auth (admin/user)
